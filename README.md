@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elias Galvan
-- 👀 I’m interested in Desarrollar y colaborar con propuests de mejoras 
+- 👀 I’m interested in Desarrollar y colaborar con propuestas de mejoras 
 - 🌱 I’m currently learning DEV C++;  SAP
 - 💞️ I’m looking to collaborate Soporte técnico o Analista funcional
 - 📫 How to reach me Linkedin: Elias Galvan
