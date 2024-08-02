@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @EliasSG2025
 - 👀 I’m interested in Desarrollar mis ideas y proyectos
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning DEV C++;  SAP
 - 💞️ I’m looking to collaborate on propuestas de mejoras continuas
 - 📫 How to reach me Linkedin: Elias Galvan
-- 😄 Pronouns: Paquetá
+- 😄 Pronouns: Eli
 - ⚡ Fun fact: Falo portugués
 
 <!---
